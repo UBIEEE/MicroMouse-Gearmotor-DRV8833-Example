@@ -3,7 +3,7 @@
 #include <Button.hpp>
 #include <Drive.hpp>
 
-static const int kButtonPin = 4;
+static const int kButtonPin = 10;
 static Button button;
 
 void setup() {
